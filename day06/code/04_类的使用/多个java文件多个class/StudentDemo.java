@@ -3,7 +3,7 @@ class StudentDemo {
 	public static void main(String[] args) {
 		//创建学生对象
 		Student s = new Student();
-
+ 
 		//输出对象名
 		System.out.println(s); //Student@1afb7ac7
 

@@ -91,7 +91,7 @@
 		C:程序要输出内容，必须有输出语句，格式是：
 			System.out.println("HelloWorld");
 	(3)程序的编译和运行
-		A:javac命令编译程序，后面跟的是文件名称
+		A:javac命令编译程序，后面跟的是文件名称  
 			javac HelloWorld.java
 		B:java命令执行程序，后面跟的是class文件名称，不含扩展名
 			java HelloWorld
@@ -130,7 +130,7 @@
 (10)注释(掌握)
 	(1)注释:用于解释说明程序的文字
 	(2)分类：
-		A:单行：//注释文字
+		A:单行：// 注释文字
 		B:多行：/* 注释文字 */
 		C:文档注释：/** 注释文字 */
 	(3)带注释的HelloWorld案例
